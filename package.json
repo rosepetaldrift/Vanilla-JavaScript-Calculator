@@ -1,0 +1,16 @@
+{
+  "name": "melted-surprise-verify-di8b5",
+  "productName": "melted-surprise-verify-di8b5",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Rose",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "16.0.6"
+  }
+}
